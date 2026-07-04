@@ -28,4 +28,4 @@ Libraries:
 
 # Future Work
 
-- Make it so you just have to press enter for pausing for messages rather than having to type a character first.
+- Make it so you just have to press enter when paused for messages rather than having to type a character first.
